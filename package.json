@@ -1,7 +1,7 @@
 {
-  "name": "vue-load-async-data ",
+  "name": "jui-load-async-data",
   "version": "0.1.0",
-  "description": "vue-load-async-data",
+  "description": "jui-load-async-data",
   "author": "JianZG <2992265870@qq.com>",
   "private": false,
   "scripts": {
@@ -12,6 +12,7 @@
   "main": "./lib/index.js",
   "dependencies": {
     "jquery": "^3.2.1",
+    "jui-tools": "^0.1.0",
     "vue": "^2.5.2"
   },
   "devDependencies": {

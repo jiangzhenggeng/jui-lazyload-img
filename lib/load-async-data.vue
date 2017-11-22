@@ -110,7 +110,7 @@
 <script>
 
   import jQuery from 'jquery'
-  import tools from '../../../tools'
+  import tools from 'jui-tools'
 
   export default {
     props: {
