@@ -3,7 +3,8 @@
 
 import Vue from 'vue'
 import LoadSyncData from '../lib/index'
-import App from './App.vue'
+import App from './app.vue'
+Vue.use(LoadSyncData)
 
 Vue.config.productionTip = false
 
