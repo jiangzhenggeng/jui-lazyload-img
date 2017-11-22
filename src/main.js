@@ -2,9 +2,9 @@
 // (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 
 import Vue from 'vue'
-import LoadSyncData from '../lib/index'
+import JuiLazyloadImg from '../lib/index'
 import App from './app.vue'
-Vue.use(LoadSyncData)
+Vue.use(JuiLazyloadImg)
 
 Vue.config.productionTip = false
 
